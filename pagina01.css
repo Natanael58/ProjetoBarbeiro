@@ -1,0 +1,161 @@
+header {
+    background: #BBBBBB;
+    padding: 20px 0;
+}
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 150px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #726868;
+    text-decoration: underline;
+}
+
+h1{
+    font-weight:bold ;
+    text-align: center;
+    margin: 20px 100px 20px;
+    font-size: 40px;
+    border: #494242 2px solid;
+    border-radius: 10px;
+    background-color: #BBBBBB;
+}
+
+
+h1:hover{
+    background-color: rgb(175, 182, 179);
+    color: #585555;
+    border-color: rgb(71, 75, 73);
+}
+
+#banner {
+	width: 100%;
+    margin: auto;
+}
+
+.principal {
+    background: #BBBBBB;
+    padding: 30px;
+}
+.titulo-centralizado{
+    text-align: center;
+    font-size: 20px;
+    margin: 20px 100px 20px;
+    
+}
+
+p{
+    text-align: center;
+}
+
+#missao{
+   font-size: 20px; 
+   margin: 10px 0px 0px 10px;
+}
+
+em strong{
+    color: rgb(218, 72, 72);
+}
+
+
+
+.beneficios{
+    background: #BBBBBB;
+    padding: 0px;
+    margin: 0px auto;
+}
+
+.novo ul{
+    display: inline-block;
+	vertical-align: top;
+	width: 25%;
+	margin-right: 5%;
+}
+.imagembeneficios {
+	width: 40%;
+}
+
+.produtos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.produtos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 2px 1px 0px 20px;
+    padding: 30px 30px;
+    box-sizing: border-box;
+    border: #000000 2px solid;
+    border-radius: 10px;
+}
+
+.produtos li:hover{
+
+border-color: #534c3d5d;
+color: #585555;
+}
+
+.produtos li:active{
+    border-color: #d3bc72;
+}
+
+
+.produtos li:hover h2{
+    font-size: 34px;
+}
+
+footer{
+    text-align: center;
+    background:url("img/bg.jpg");
+    padding: 40px 0 ;
+    
+}
+
+.copyright{
+    color: aliceblue;
+    font-size: 13px;
+    margin: 20px 0 0;
+
+}
+
+
+
+
+
+footer{
+    text-align: center;
+    background:url("img/bg.jpg");
+    padding: 10px 0 ;
+    
+}
+
+.copyright{
+    color: aliceblue;
+    font-size: 13px;
+    margin: 2px 0 0;
+
+}
